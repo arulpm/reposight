@@ -45,22 +45,6 @@ This repository contains the code and resources for a scientific paper search ap
 
 - **Backend**: Python with FastAPI
 - **Embeddings**: GTE base (v1.5) in TensorFlow
-- **Deployment**: Google Cloud Platform (GCP), Kubernetes (GKE), Firebase (for authentication)
-- **Mobile App**: Kotlin (Material Design standards)
-
-## Deployment
-
-1. **Setup Environment**:
-   - Install Python dependencies using `pip install -r requirements.txt`.
-   - Set up Google Cloud services and Firebase authentication.
-
-2. **Run Backend**:
-   - Start FastAPI backend for API endpoints.
-   - Ensure Google Cloud Storage and GPU resources are configured.
-
-3. **Deploy Mobile App**:
-   - Build the Kotlin app using Android Studio.
-   - Connect to Firebase for user authentication.
 
 ## How to Contribute
 
