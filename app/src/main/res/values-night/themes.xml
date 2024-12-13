@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Base.Theme.IPBgpt" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/soft_blue</item>
+        <item name="android:textColorPrimary">@color/soft_blue</item>
+        <item name="android:textColorSecondary">@color/soft_blue</item>
+    </style>
+
+    <style name="Theme.IPBgpt" parent="Base.Theme.IPBgpt">
+        <item name="android:textColor">@color/soft_blue</item>
+    </style>
+
+    <!-- App container parent style -->
+
+    <!-- Specific app container style -->
+</resources>

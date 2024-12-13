@@ -1,0 +1,42 @@
+<resources>
+    <!-- Login Screen -->
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="sign_up">Didn\'t have an account? Sign up please.</string>
+    <string name="please_login">Already have an account? Login</string>
+
+    <!-- Sign Up Screen -->
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_up_button">Sign Up</string>
+
+    <!-- Documents Screen -->
+    <string name="app">RepoSights</string>
+    <string name="document_search">Document Search</string>
+    <string name="search_documents">Search documents…</string>
+    <string name="search">Search</string>
+    <string name="document_title">Document Title</string>
+    <string name="document_url">Document URL</string>
+
+    <!-- Chat Screen -->
+    <string name="message">Type a message…</string>
+    <string name="send">Send</string>
+
+    <!-- Common -->
+    <string name="app_name">RepoSights</string>
+    <string name="sign_out">Sign out</string>
+    <string name="clear_text">Clear text</string>
+    <string name="history">History</string>
+    <string name="delete_all">Delete All</string>
+    <string name="try_again">Try Again</string>
+    <string name="empty_state_message">How can I assist you?</string>
+    <string name="empty_state_image">empty state image</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="bot_response">Bot Response</string>
+    <string name="user_message">User Message</string>
+    <string name="related_documents">Related Documents</string>
+    <string name="logo" />
+    <string name="reposight">RepoSights</string>
+</resources>
